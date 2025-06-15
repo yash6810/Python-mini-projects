@@ -29,11 +29,17 @@ You can run this notebook using:
 calculator.ipynb
 
 Preview
+
 ![image](https://github.com/user-attachments/assets/8ba96d6f-da71-4536-a7bd-082c457bb782)
 
 🙌 Project Goals
+
 Practice basic Python skills
+
 Learn to use Jupyter Notebooks for small Python projects
+
 Understand function-based structuring of code
+
 🧠 Author
+
 Made with by Yash Upadhyay
