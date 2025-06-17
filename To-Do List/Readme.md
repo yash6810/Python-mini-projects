@@ -50,49 +50,78 @@ Once the application is up and running, you'll be greeted by a friendly menu in 
 4. Delete task 💀
 5. Exit 🚩
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
 Enter your choice:
+
 Enter 1 to view your entire list of tasks.
+
 Enter 2 to add a new task. The program will prompt you for the task description.
+
 Enter 3 to mark a task as complete. You'll simply provide the number of the task from your list.
+
 Enter 4 to delete a task. Again, just enter its corresponding number.
+
 Enter 5 to exit the application cleanly.
+
 📂 Project Architecture
+
 The project maintains a clean and logical structure:
 
 .
 ├── todo_app.py         # The heart of the application: contains all To-Do List logic.
 └── todo.txt            # Your digital notepad: where all your tasks are saved and loaded.
 └── README.md           # You're reading it! Project documentation.
+
 💡 Why This Project? (Technical Insights)
+
 This To-Do List application was developed to solidify core Python programming concepts in a practical, user-facing context. It demonstrates proficiency in:
 
 Object-Oriented Design: Encapsulating task management logic within the TodoList class promotes modularity and reusability.
+
 File Handling (os module & open()): Efficiently reading from and writing to todo.txt ensures seamless data persistence, a crucial aspect of real-world applications.
+
 User Interaction: Implementing robust input() handling and clear print() statements for a smooth command-line experience.
+
 Error Handling (try-except): Gracefully managing invalid user inputs (e.g., non-numeric task numbers) to prevent crashes and enhance user experience.
+
 🌱 Future Enhancements
+
 I'm always thinking about how to evolve and improve my projects! Here are a few ideas for future enhancements:
 
 Task Prioritization: Add a feature to assign priority levels (e.g., high, medium, low) to tasks.
+
 Due Dates: Implement an option to set and display due dates for tasks.
+
 Filtering & Sorting: Allow users to filter tasks by completion status or sort them by priority/due date.
+
 Categories: Enable assigning categories to tasks (e.g., "Work," "Personal," "Groceries").
+
 🤝 Contributing
+
 Got an idea or found a bug? Contributions are warmly welcomed! Please feel free to:
 
 Fork this repository.
+
 Create your feature branch (git checkout -b feature/your-awesome-feature).
+
 Commit your changes (git commit -m 'Feat: Add an awesome new feature').
+
 Push to the branch (git push origin feature/your-awesome-feature).
+
 Open a Pull Request with a clear description of your changes.
+
 📄 License
+
 This project is open-source and licensed under the MIT License. You can find the full license details in the LICENSE file located in the root of the Python-mini-projects repository.
 
 📧 Let's Connect!
+
 I'm always eager to discuss Python, software development, and new opportunities.
 
 Yash Upadhyay
 
 GitHub: @yash6810
+
 Email: yashupadhyay481@gmail.com
+
 Project Link: https://github.com/yash6810/Python-mini-projects/tree/main/To-Do%20List
