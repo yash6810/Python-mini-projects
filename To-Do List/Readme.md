@@ -23,20 +23,23 @@ Since this To-Do List is a sub-project within a larger collection of Python mini
 Clone the main repository:
 
 Bash
-
+```
 git clone https://github.com/yash6810/Python-mini-projects.git
 Navigate to the To-Do List project directory:
+```
 
 Bash
-
+```
 cd "Python-mini-projects/To-Do List"
-(Remember the quotes around "To-Do List" because of the space!)
+```
 
 Launch the application:
 
 Bash
-
+```
 python todo_app.py
+```
+
 🚀 How to Use
 Once the application is up and running, you'll be greeted by a friendly menu in your terminal. Just type the number corresponding to your desired action and press Enter!
 
