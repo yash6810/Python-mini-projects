@@ -20,7 +20,7 @@ This repository is designed for:
 |------------------------------|-------------------------------------------------------|--------------------------------|
 | 🧮 Calculator (Notebook)      | A basic calculator using Jupyter Notebook             | [`calculator-notebook`](./calculator-notebook) |
 | 🧮 Calculator (Python Script) | A terminal-based calculator in pure Python            | [`calculator`](./calculator) |
-| 📅 Age Calculator             | Enter DOB and get age in years/months/days           | `age-calculator` (coming soon) |
+| 📅 Age Calculator             | Enter DOB and get age in years/months/days           | `age-calculator`              |
 | 🧠 Quiz App                   | Simple Python-based quiz game                         | `quiz-app` (coming soon)       |
 | 🕹️ Number Guessing Game      | A CLI-based guessing game for random numbers          | `number-guess` (coming soon)   |
 | 🎲 Dice Simulator            | Simulate a dice roll using Python                     | `dice-simulator` (coming soon) |
